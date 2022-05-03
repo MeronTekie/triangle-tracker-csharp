@@ -1,0 +1,16 @@
+C:\Users\Marcus\Desktop\C#\Triangle.Solution\Triangle\obj\Debug\net5.0\Triangle.csproj.AssemblyReference.cache
+C:\Users\Marcus\Desktop\C#\Triangle.Solution\Triangle\obj\Debug\net5.0\Triangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcus\Desktop\C#\Triangle.Solution\Triangle\obj\Debug\net5.0\Triangle.AssemblyInfoInputs.cache
+C:\Users\Marcus\Desktop\C#\Triangle.Solution\Triangle\obj\Debug\net5.0\Triangle.AssemblyInfo.cs
+C:\Users\Marcus\Desktop\C#\Triangle.Solution\Triangle\obj\Debug\net5.0\Triangle.csproj.CoreCompileInputs.cache
+C:\Users\Marcus\Desktop\C#\Triangle.Solution\Triangle\bin\Debug\net5.0\Triangle.deps.json
+C:\Users\Marcus\Desktop\C#\Triangle.Solution\Triangle\bin\Debug\net5.0\Triangle.dll
+C:\Users\Marcus\Desktop\C#\Triangle.Solution\Triangle\bin\Debug\net5.0\Triangle.pdb
+C:\Users\Marcus\Desktop\C#\Triangle.Solution\Triangle\obj\Debug\net5.0\Triangle.dll
+C:\Users\Marcus\Desktop\C#\Triangle.Solution\Triangle\obj\Debug\net5.0\refint\Triangle.dll
+C:\Users\Marcus\Desktop\C#\Triangle.Solution\Triangle\obj\Debug\net5.0\Triangle.pdb
+C:\Users\Marcus\Desktop\C#\Triangle.Solution\Triangle\obj\Debug\net5.0\ref\Triangle.dll
+C:\Users\Marcus\Desktop\C#\Triangle.Solution\Triangle\bin\Debug\net5.0\Triangle.exe
+C:\Users\Marcus\Desktop\C#\Triangle.Solution\Triangle\bin\Debug\net5.0\Triangle.runtimeconfig.json
+C:\Users\Marcus\Desktop\C#\Triangle.Solution\Triangle\bin\Debug\net5.0\Triangle.runtimeconfig.dev.json
+C:\Users\Marcus\Desktop\C#\Triangle.Solution\Triangle\obj\Debug\net5.0\Triangle.genruntimeconfig.cache
