@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "R0AgyruSkCmMUKB3QWzWEznceKxIdgXVDpOIEDQg230ni4fMN0M3Fi2yU2WqPek3j8LARnlUOIvqVqu9NvXnNg==",
+  "dgSpecHash": "lXUPaoVnsj04ns85Yb82puMMHnvrmBellFLrTNilj7d3LLusgV9+UJv0tcIbPdGXAAguERCNgzLg7nSHYKbouA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Marcus\\Desktop\\C#\\Triangle.Solution\\Triangle\\Triangle.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Marcus\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
